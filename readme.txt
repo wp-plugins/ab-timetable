@@ -38,9 +38,9 @@ Currently, you have to add the CSS yourself, in the theme's stylesheet.
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
+1. An example of what the timetable will produce in your site.
+2. The admin form you can populate with your events.
+3. The editor include a button, so you can automatically add the timetable to a page or post.
 
 
 == Changelog ==
