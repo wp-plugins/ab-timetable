@@ -144,7 +144,7 @@ if (current_user_can('manage_options') || is_admin()) {
 
     function add_ab_page() {
 
-        add_menu_page('AB Timetable', 'AB Timetable', 'manage_options', 'ab-timetable', 'ab_timetable_html_page', plugin_dir_url(__FILE__) . 'images/calendar.gif');
+        add_menu_page('AB Timetable', 'AB Timetable', 'manage_options', 'ab-timetable', 'ab_timetable_html_page', plugin_dir_url(__FILE__) . 'images/calendar.png');
     }
 
 }
